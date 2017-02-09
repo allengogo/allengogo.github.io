@@ -61,4 +61,13 @@ You can set your image from the following variable:
 me-img: "/img/jetpacktocat.png"
 </code></pre>
 
+
+
+If you want to connect your Twitter profile image then you can use the following.              
+Replace `user_name` with your Twitter user name.
+
+<pre><code data-trim class="yaml">
+me-img: "https://twitter.com/user_name/profile_image?size=original"
+</code></pre>
+
 All set!
