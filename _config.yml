@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
 
 # me-img: "/img/jetpacktocat.png"
 
-me-img: 'https://graph.facebook.com/100000091997258/picture?type=large&width=500&height=500'
+me-img: 'https://twitter.com/wesbos/profile_image?size=original'
 
 ##############################
 # Color the browser elements #
