@@ -58,7 +58,9 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/jetpacktocat.png"
+
+me-img: 'https://graph.facebook.com/100000091997258/picture?type=large&width=500&height=500'
 
 ##############################
 # Color the browser elements #
